@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**arikno/arikno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Arik Noyman
+Integration Team Leader at Hadassah Medical Center.
 
-Here are some ideas to get you started:
+## Skills
+Tibco Architecture and Design, Tibco TCP certified  
+Tibco ESB\SOA infrastructure   
+ETL\DWH Expert  
+Tibco BW6, BW5, EMS, RV, Hawk, Adapters  
+MS BI Tools  
+Databases  
+System Administration  
+Java  
+Python  
+Project manager  
+Team Lead
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+

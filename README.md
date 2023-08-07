@@ -1,7 +1,6 @@
 
 # Arik Noyman
-Integration Team Leader at Hadassah Medical Center.
-
+Senior Solution Consultant at Sisense
 ## Skills
 Tibco Architecture and Design, Tibco TCP certified  
 Tibco ESB\SOA infrastructure   
@@ -10,7 +9,7 @@ Tibco BW6, BW5, EMS, RV, Hawk, Adapters
 MS BI Tools  
 Databases  
 System Administration  
-Java  
+JS  
 Python  
 Project manager  
 Team Lead
